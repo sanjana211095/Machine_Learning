@@ -1,0 +1,50 @@
+﻿ID,Name,Completion_hours,CourseID
+DAC01,C++ Programming,72,PG01
+DAC02,Operating System and Software Development,72,PG01
+DAC03,OOPS with JAVA,112,PG01
+DAC04,DSA using JAVA,72,PG01
+DAC05,Database Technologies,72,PG01
+DAC06,Web Programming Technologies,112,PG01
+DAC07,Web-based Java Programming,104,PG01
+DAC08,Aptitude and Effective Communication,80,PG01
+DAC09,Project,120,PG01
+DBDA01,Linux Programming and Cloud Computing,50,PG02
+DBDA02,Python and  R programming,80,PG02
+DBDA03,OOPS with JAVA,90,PG02
+DBDA04,Statistics,90,PG02
+DBDA05,DBMS,90,PG02
+DBDA06,Big Data Technologies,150,PG02
+DBDA07,Data Visualization,50,PG02
+DBDA08,Machine Learning,120,PG02
+DBDA09,Aptitude and Effective Communication,90,PG02
+DBDA10,Project,90,PG02
+DESD01,Aptitude and Effective Communication,90,PG03
+DESD02,DSA,90,PG03
+DESD03,Embedded C programming,120,PG03
+DESD04,Embedded Linux Device Drivers,90,PG03
+DESD05,Internet of Things,90,PG03
+DESD06,Microcontroller Programming and Interfacing,120,PG03
+DESD07,Project and Seminar,150,PG03
+DESD08,Real-time Operating Systems,60,PG03
+DESD09,Embedded Operating Systems,90,PG03
+DAI01,Fundamental of AI,40,PG04
+DAI02,Mathematics for AI,40,PG04
+DAI03,Java Programming,60,PG04
+DAI04,Advance Programming using Python,90,PG04
+DAI05,Data Analytics,90,PG04
+DAI06,Machine Learning,100,PG04
+DAI07,Deep Machine Learning,90,PG04
+DAI08,Natural Language Processing and Computer Vision,100,PG04
+DAI09,AI Compute Plateforms and Trends,110,PG04
+DAI10,Aptitude and Effective Communication,90,PG04
+DAI11,Project,90,PG04
+DITISS01,Fundamental of Computer Network,80,PG05
+DITISS02,Concepts of Operating System and Administration,180,PG05
+DITISS03,Security Concepts,180,PG05
+DITISS04,Compilance Audit,30,PG05
+DITISS05,Network Defence and Countermeasures,70,PG05
+DITISS06,Cyber Forensics,44,PG05
+DITISS07,Public key Infrastrucutre,50,PG05
+DITISS08,IT Infrastructure Mangement and DevOps,86,PG05
+DITISS09,Aptitude and Effective Communication,90,PG05
+DITISS10,Project,90,PG05
